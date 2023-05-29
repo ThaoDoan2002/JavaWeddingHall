@@ -1,0 +1,42 @@
+Ga nuong
+100000
+false
+Tiger
+150000
+Viet Nam
+Banh bao 
+200000
+false
+Milk tea
+250000
+Phuc Long
+Salad
+300000
+true
+Heniken
+500000
+Viet Nam
+Che hat sen
+600000
+true
+Pepsi
+700000
+Viet Nam
+My cay
+35000
+false
+Hong tra xanh sua
+40000
+Hong tra ngo gia
+Ga xao cay
+100000
+false
+Matcha da xay
+65000
+Highlands
+Salad
+300000
+true
+Americano
+25000
+Starbuck

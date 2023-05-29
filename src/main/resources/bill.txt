@@ -1,0 +1,98 @@
+Wedding 1
+Wedding hall 1
+1
+20
+morning weekend
+12/01/2023
+Bo kho
+2000000
+false
+Che hat sen
+28000000
+true
+Beer
+36000000
+Tiger
+Karaoke 1
+2000000
+2.5
+Hire single 1
+2222030
+Lily
+2
+Party decor 1
+20000000
+Wedding 2
+Wedding hall 2
+2
+30
+morning weekday
+01/01/2023
+Bo nhum giam
+22000
+false
+Che khuc bach
+220000
+true
+Beer
+15000
+Sai Gon 
+Karaoke 2
+340000
+3
+Hire single 2
+500000
+Karik
+1
+Party decor 2
+4000005
+Wedding 3
+Wedding hall 3
+1
+35
+evening weekend
+15/04/2023
+Ga quay
+65000000
+false
+Che hat sen
+20000000
+true
+Beer
+30000000
+Heniken
+Karaoke 3
+2500000
+4
+Hire single 3
+2222030
+My Linh
+2
+Party decor 3
+2000000
+Wedding 4
+Wedding hall 4
+2
+33
+afternoon weekend
+12/05/2023
+Bo kho
+2020000
+false
+Che hat sen
+20400000
+true
+Beer
+30200000
+Tiger
+Karaoke 4
+25000000
+2
+Hire single 4
+2222450
+Hoa Minzy
+2
+Party decor 4
+2000000
+
+

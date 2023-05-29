@@ -1,0 +1,40 @@
+Wedding hall 1
+morning weekend
+1
+20
+Wedding hall 2
+evening weekend
+1
+15
+Wedding hall 3
+morning weekday
+2
+30
+Wedding hall 4
+evening weekend
+1
+20
+Wedding hall 5
+morning weekend
+1
+20
+Wedding hall 6
+evening weekend
+2
+35
+Wedding hall 7
+morning weekday
+1
+25
+Wedding hall 8
+afternoon weekday
+2
+15
+Wedding hall 9
+morning weekday
+2
+50
+Wedding hall 10
+afternoon weekend
+1
+45

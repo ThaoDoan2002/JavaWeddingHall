@@ -1,0 +1,37 @@
+Karaoke 1
+2000000
+2.3
+Hire Singer 1
+200000
+Son Tung MTP
+1
+party decor 1
+2000000
+Karaoke 2
+2222222
+5.4
+Hire Singer 2
+50000000
+Mono
+2
+party decor 2
+23450000
+Karaoke 3
+1500000
+2.3
+Hire Singer 3
+300000
+My Anh
+1
+party decor 3
+100000
+Karaoke 4
+500000
+2.3
+Hire Singer 4
+540000
+Son Tung MTP
+1
+party decor 4
+300000
+
